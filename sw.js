@@ -1,5 +1,5 @@
 
-const CACHE = 'finanza-beta-v04';
+const CACHE = 'finanza-beta-v05';
 const FILES = ['./', './index.html', './manifest.webmanifest'];
 
 self.addEventListener('install', event => {
