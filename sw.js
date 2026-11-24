@@ -1,4 +1,4 @@
-const CACHE = 'finanza-beta-v053';
+const CACHE = 'finanza-beta-v060';
 const FILES = ['./', './index.html', './manifest.webmanifest'];
 const INDEX_URL = new URL('./index.html', self.registration.scope).href;
 self.addEventListener('install', event => {
