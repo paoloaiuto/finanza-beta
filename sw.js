@@ -1,4 +1,3 @@
-
 const CACHE = 'finanza-beta-v05';
 const FILES = ['./', './index.html', './manifest.webmanifest'];
 
